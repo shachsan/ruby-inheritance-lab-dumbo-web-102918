@@ -5,5 +5,6 @@ class Student < User
     @knowledge << material
   end
 
-  
+  def knowledge
+  end
 end
