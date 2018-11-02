@@ -4,4 +4,6 @@ class Student < User
   def learn(material)
     @knowledge << material
   end
+
+  
 end
