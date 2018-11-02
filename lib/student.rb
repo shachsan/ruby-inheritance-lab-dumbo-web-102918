@@ -1,11 +1,12 @@
 class Student < User
-  @knowledge = []
+
+  de 
 
   def learn(material)
     @knowledge << material
   end
 
   def knowledge
-    2k
+    @knowledge
   end
 end
