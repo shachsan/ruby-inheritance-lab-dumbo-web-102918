@@ -1,7 +1,7 @@
 class Student < User
   @knowledge = []
 
-  def learn()
+  def learn(material)
 
   end
 end
