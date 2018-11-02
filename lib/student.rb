@@ -6,5 +6,6 @@ class Student < User
   end
 
   def knowledge
+    2k
   end
 end
