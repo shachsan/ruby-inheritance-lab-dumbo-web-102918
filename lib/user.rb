@@ -1,3 +1,3 @@
 class User
-  attr_acc
+  attr_accessor : 
 end
