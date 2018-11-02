@@ -1,6 +1,8 @@
 class Student < User
 
-  de 
+  def initialize
+    @knowledge = []
+  end 
 
   def learn(material)
     @knowledge << material
